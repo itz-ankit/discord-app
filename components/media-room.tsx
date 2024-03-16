@@ -6,6 +6,7 @@ import "@livekit/components-styles";
 import { Channel } from "@prisma/client";
 import { useUser } from "@clerk/nextjs";
 import { Loader2 } from "lucide-react";
+import "@livekit/components-styles";
 
 interface MediaRoomProps {
     chatId: string;
