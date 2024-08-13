@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 This is a repository for a Discord Clone using Next.js 13, React, Socket.io, Prisma, Tailwind, PostgreSQL
 
-Deployed server : [`Disclone`](discord-app-production-4e5e.up.railway.app)
+Deployed server : [`Disclone`](https://discord-app-production-4e5e.up.railway.app)
 
 Features:
 
